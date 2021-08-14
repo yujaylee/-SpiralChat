@@ -1,0 +1,13 @@
+<view class="container">
+  <image class="icon" src="../../images/spiral3.png"></image>
+  <view class="body">
+    <view class="title">❤️帮助我做更多</view>
+    <view class="text">为了创造更美好的未来,我们需要和自然界的生物和谐共处.来了解它们的特点,和它们面临的重大问题,以及如何针对这些问题取得进展,善待自然界的生物,防止虐待动物,认识更多自然现象,掌握自然现象的规律.这就是为什么我使我的所有的工作免费和方便每个人阅读.</view>
+    <view class="text">这是一个非盈利订阅公众号.这意味着我依靠捐款和赠款来维持我前进.读者捐赠对于我们的工作至关重要,为我提供了我需要的稳定性和独立性,因此我可以专注于展示我认为每个人都需要知道的内容.</view>
+    <view class="text">捐赠也是向我展示您发现我的工作有帮助和有价值的一种方式.知道这一点是我的巨大灵感来源.</view>
+    <view class="text">你想帮助我做更多的工作,请今天捐赠</view>
+    <view class="text">这将带来真正的改变.</view>
+    <view class="text">谢谢你</view>
+  </view>
+  <image class="logo" src="../../images/logo_spiralchat.png"></image>
+</view>

@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "component_introduction": "/components/introduction/introduction",
+    "component_contact": "/components/contact/contact",
+    "component_admiration": "/components/admiration/admiration"
+  }
+}

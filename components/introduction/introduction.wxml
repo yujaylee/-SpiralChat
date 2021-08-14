@@ -1,0 +1,31 @@
+<view class="container">
+  <image class="icon" src="../../images/spiral2.png"></image>
+  <view class="body">
+    <view class="title">🐛SpiralChat发布什么内容</view>
+    <view class="text">​在这里,我使用图文描述自然生物和自然现象.</view>
+    <view class="text">自然生物和自然现象都有一种特征,就是玄,卷,螺旋,这个特征会出现在生物的生长过程中,或者出现在他们的身体上.或者出现在自然现象本身.</view>
+    <view class="title">🦍为什么是自然生物</view>
+    <view class="text">自然生物拥有属于自己的先天天赋,使得它们可以在这颗星球上生存.</view>
+    <view class="text">很多生物和人的关系很密切:</view>
+    <view class="text">狩猎采集时代,动植物是人的食物和药材.</view>
+    <view class="text">农耕时代,动物可以帮助人劳作,人收集了大量的种子.</view>
+    <view class="text">工业时代,动植物被大量破坏.同时人们呼吁保护环境.</view>
+    <view class="text">互联网时代,动植物的图片视频在网络上展出.</view>
+    <view class="text">了解生物的特征,可以和它们更好的相处,当我了解了部分生物后发现:它们中的大部分已经是濒危状态.</view>
+    <view class="text">观察一些动物之后,发现它们有自己的交流方式,并不一定要发出叫声才可以交流,视觉,嗅觉,触觉,听觉,味觉.这五种方式,每一种都可以建立交流.</view>
+    <view class="text">生活习性,选择食物,生存方.自然选择,优胜劣汰,听起来简单,但是很残酷.</view>
+    <view class="title">🐙为什么是自然现象</view>
+    <view class="text">自然现象,很容易被人们忽略.</view>
+    <view class="text">四季变化,昼夜交替,</view>
+    <view class="text">风雨,冰雪,雷电.</view>
+    <view class="text">台风,海啸,火山喷发,山洪,</view>
+    <view class="text">极光,血月.</view>
+    <view class="text">......</view>
+    <view class="text">自然现象可以解释我们周围环境发生了什么.</view>
+    <view class="text">了解自然,和自然融为一体.</view>
+    <view class="title">🍓展望未来</view>
+    <view class="text">抱有幻想的人们,在文学作品和影视作品中构建自己的向往,穿越时空,回到过去,逆转未来,阻止农业革命,阻止工业革命,让世界回到狩猎采集时代.</view>
+  </view>
+  <image class="logo" src="../../images/logo_spiralchat.png"></image>
+</view>
+

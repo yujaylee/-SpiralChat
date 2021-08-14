@@ -1,0 +1,34 @@
+<view class="container" >
+  <image class="icon" src="../../images/spiral1.png"></image>
+  <view class="body">
+    <view class="title">👋About The Author</view>
+      <view class="text">Name:李宇杰</view>
+      <view class="text">Brithday:2 Jan 1988</view>
+      <view class="text">Gender:male</view>
+      <view class="text">Address:中国大陆</view>
+      <view class="text">Company:佐乌（上海）科技有限公司</view>
+    <view class="title">📫How to reach me</view>
+      <view class="text">Phone:+086 17301637045</view>
+      <view class="text">Email:yujaylee@foxmail.com</view>
+      <view class="text">Wechat:Spiral369</view>
+      <view class="text">Facebook:shuzijianzao</view>
+      <view class="text">Instagram:shuzijianzao</view>
+      <view class="text">Twitter:shuzijianzao</view>
+      <view class="text">Whatsapp:+086 17301637045</view>
+    <view class="title">👀I'm interested in</view>
+      <view class="text">建筑,金属物品,木制物品,玻璃,瓷器,牛油果,水池</view>
+      <view class="text">石头,骨头,漫画,素颜,读书,可追溯条理的设计,创意文化,油画,独角仙,蜻蜓,大蜘蛛</view>
+      <view class="text">  语言文字,循环体,船,精酿啤酒,干净整洁的工艺,地图,毛皮类动物,贝壳,游泳,星空,望远镜,布衣,伤疤,体毛,八爪鱼,马,雀斑美女.</view>
+      <view class="text">生物的外貌,叫声,行为,建筑,天赋.</view>
+      <view class="text">塞尔达传说,丫哈哈森林,智慧之泉,咕隆城,怪物商店,沃托里村.</view>
+    <view class="title">🌱I'm currently learning </view>
+      <view class="text">天干地支记日法</view>
+      <view class="text">透视图</view>
+      <view class="text">视频制作</view>
+      <view class="text">文章写作</view>
+    <view class="title">🏀SpiralChat</view>
+      <view class="text">投稿,通过邮件来联系我.</view>
+      <view class="text">加入微信群聊,通过微信联系我获得邀请.</view>
+  </view>
+  <image class="logo" src="../../images/logo_spiralchat.png"></image>
+</view>

@@ -1,0 +1,18 @@
+.contaiter {
+    margin: 10px;
+    position: relative; /** 相对定位 **/
+  }
+
+  .body {
+    padding: 36px;
+    line-height: 1.5;
+  }
+  .title {
+    font-size: 21px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .text {
+    padding-left: 25px;
+    color: rgb(56, 55, 55);
+  }
