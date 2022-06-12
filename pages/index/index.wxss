@@ -29,8 +29,8 @@ page {
 }
 
 .iconPath {
-  width:54rpx;
-  height: 54rpx;
+  width:80rpx;
+  height: 80rpx;
 }
 
 .tab-content {

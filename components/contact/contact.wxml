@@ -1,16 +1,19 @@
 <view class="container" >
   <image class="icon" src="../../images/spiral1.png"></image>
   <view class="body">
-    <view class="title">👋About The Author</view>
-      <view class="text">Name:李宇杰</view>
+    <view class="title">🥑SpiralChat</view>
+      <view class="text">制作微信小程序，通过微信联系我.</view>
+      <view class="text">加入微信群聊,通过微信联系我，获得邀请.</view>
+      <view class="text">投稿,通过邮件来联系我.</view>
+    <view class="title">👋About The Author</view> 
       <view class="text">Brithday:2 Jan 1988</view>
       <view class="text">Gender:male</view>
-      <view class="text">Address:中国大陆</view>
+      <view class="text">Address:哈尔滨中央大街</view>
       <view class="text">Company:佐乌（上海）科技有限公司</view>
     <view class="title">📫How to reach me</view>
-      <view class="text">Phone:+086 17301637045</view>
-      <view class="text">Email:yujaylee@foxmail.com</view>
       <view class="text">Wechat:Spiral369</view>
+      <view class="text">Phone:+086 17301637045</view>
+      <view class="text">Email:yujaylee@qq.com</view>
       <view class="text">Facebook:shuzijianzao</view>
       <view class="text">Instagram:shuzijianzao</view>
       <view class="text">Twitter:shuzijianzao</view>
@@ -26,9 +29,6 @@
       <view class="text">透视图</view>
       <view class="text">视频制作</view>
       <view class="text">文章写作</view>
-    <view class="title">🏀SpiralChat</view>
-      <view class="text">投稿,通过邮件来联系我.</view>
-      <view class="text">加入微信群聊,通过微信联系我获得邀请.</view>
   </view>
   <image class="logo" src="../../images/logo_spiralchat.png"></image>
 </view>
